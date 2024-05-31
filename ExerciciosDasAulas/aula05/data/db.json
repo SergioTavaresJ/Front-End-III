@@ -1,0 +1,22 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "João",
+            "email": "joão@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 2,
+            "nome": "Maria",
+            "email": "maria@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 3,
+            "nome": "Sergio",
+            "email": "sergio@iesp.edu.br",
+            "curso": "Medicina"
+        }
+    ]
+}
